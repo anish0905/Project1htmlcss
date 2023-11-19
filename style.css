@@ -1,0 +1,28 @@
+*{margin: 0px; padding: opx; box-sizing: border-box;}
+
+
+body
+
+{
+    background-color: antiquewhite;
+    background-image: url("./img/bike-4269753_1280.jpg");
+    background-repeat: no-repeat;
+   background-size: 100vw 100vh;
+   background-attachment: fixed;
+}
+
+nav{
+    background-color: #415858;
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 50px;
+}
+nav img{
+    height: 25px;
+
+}
+
+section p{
+    font-size: 22px;
+}
